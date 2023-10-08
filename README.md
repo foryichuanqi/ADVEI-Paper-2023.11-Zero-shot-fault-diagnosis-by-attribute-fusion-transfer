@@ -5,6 +5,9 @@ Paper: Attribute fusion transfer for zero-shot fault diagnosis
 
 The website of the paper：https://www.sciencedirect.com/science/article/pii/S1474034623003324?dgcid=author
 
+![image](https://github.com/foryichuanqi/ADVEI-Paper-2023.11-Zero-shot-fault-diagnosis-by-attribute-fusion-transfer/assets/48144488/a6f56193-4571-4338-8fba-e915670320f5)
+
+![image](https://github.com/foryichuanqi/ADVEI-Paper-2023.11-Zero-shot-fault-diagnosis-by-attribute-fusion-transfer/assets/48144488/5808a6e7-b921-4834-871f-3e5993aed854)
 
 
 
