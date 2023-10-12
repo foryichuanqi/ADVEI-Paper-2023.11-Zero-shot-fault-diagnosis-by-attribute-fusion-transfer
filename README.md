@@ -31,20 +31,19 @@ The website of the paper：https://www.sciencedirect.com/science/article/pii/S14
 (2) Please cite this paper and the original source of the dataset when using the code for academic purposes.
 
 GB/T 7714: 
-
+Fan L, Chen X, Chai Y, et al. Attribute fusion transfer for zero-shot fault diagnosis[J]. Advanced Engineering Informatics, 2023, 58: 102204.
 
 
 BibTex:
 
-@article{FAN2023102204,
-title = {Attribute fusion transfer for zero-shot fault diagnosis},
-journal = {Advanced Engineering Informatics},
-volume = {58},
-pages = {102204},
-year = {2023},
-issn = {1474-0346},
-doi = {https://doi.org/10.1016/j.aei.2023.102204},
-author = {Linchuan Fan and Xiaolong Chen and Yi Chai and Wenyi Lin}
+@article{fan2023attribute,
+  title={Attribute fusion transfer for zero-shot fault diagnosis},
+  author={Fan, Linchuan and Chen, Xiaolong and Chai, Yi and Lin, Wenyi},
+  journal={Advanced Engineering Informatics},
+  volume={58},
+  pages={102204},
+  year={2023},
+  publisher={Elsevier}
 }
 
 
